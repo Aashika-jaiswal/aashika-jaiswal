@@ -11,6 +11,7 @@
 
 <br/>
 
+
 ```java
 public class SoftwareEngineer {
     String name = "Aashika Jaiswal";
@@ -22,4 +23,7 @@ public class SoftwareEngineer {
     public void getMotto() {
         System.out.println("Pivoting from core engineering to building impactful software.");
     }
-}
+} 
+```
+### 📊 Activity Graph (Last 31 Days)
+[![Aashika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashika-jaiswal&bg_color=0d1117&color=20b2aa&line=20b2aa&point=ffffff&title_color=20b2aa&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
