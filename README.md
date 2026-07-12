@@ -5,8 +5,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/aashika-jaiswal"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/Aashikajaiswal01"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/aashika-jaiswal-0896002b4"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/aashika_jaiswal01/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </div>
 
 <br/>
