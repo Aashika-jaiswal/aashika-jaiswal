@@ -80,7 +80,7 @@ public class SoftwareEngineer {
 *Auto-refreshes daily via GitHub Actions — powered by `snake.yml`.*
 
 ---
-
-
+![Aashika's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Aashika-jaiswal&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aashika-jaiswal&layout=compact&theme=radical&hide_border=true)
 ### 📊 Activity Graph (Last 31 Days)
-![Aashika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashika-jaiswal&theme=react-dark)
+![Aashika's github activity graph](https://fabianocouto-activity-graph.vercel.app/graph?username=Aashika-jaiswal&theme=react-dark)
