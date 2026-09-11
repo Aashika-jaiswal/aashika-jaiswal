@@ -59,6 +59,32 @@ public class SoftwareEngineer {
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Computer Networks](https://img.shields.io/badge/Computer_Networks-02569B?style=for-the-badge&logo=wireshark&logoColor=white)
 
+## 🧠 Proficiency
 
+`DSA & Algorithms` ██████████████████░░ 90%
+
+`Full-Stack Dev`   █████████████████░░░ 82%
+
+`backend dev`      ████████████████░░░░ 76%
+
+`frontend Dev`     ███████████████░░░░░ 75%
+
+`AI/ML.     `      ██████████████░░░░░░ 70%
+
+---
+
+## 🐍 Live Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Aashika-jaiswal/Aashika-jaiswal/output/github-contribution-grid-snake-dark.svg)
+
+*Auto-refreshes daily via GitHub Actions — powered by `snake.yml`.*
+
+---
+
+## 📊 GitHub Analytics
+
+![Aashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashika-jaiswal&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashika-jaiswal&layout=compact&theme=radical&hide_border=true)
 ### 📊 Activity Graph (Last 31 Days)
-[![Aashika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashika-jaiswal&bg_color=0d1117&color=20b2aa&line=20b2aa&point=ffffff&title_color=20b2aa&grid=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Aashika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashika-jaiswal&theme=react-dark)
