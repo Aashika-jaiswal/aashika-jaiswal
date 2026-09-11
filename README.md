@@ -81,10 +81,6 @@ public class SoftwareEngineer {
 
 ---
 
-## 📊 GitHub Analytics
 
-![Aashika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aashika-jaiswal&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashika-jaiswal&layout=compact&theme=radical&hide_border=true)
 ### 📊 Activity Graph (Last 31 Days)
 ![Aashika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aashika-jaiswal&theme=react-dark)
