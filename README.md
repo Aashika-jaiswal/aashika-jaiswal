@@ -18,8 +18,8 @@ public class SoftwareEngineer {
     String status = "3rd year ug student";
     String target = "Software Development Engineer (SDE)";
     String[] currentlyLearning = {"Java", "Data Structures & Algorithms","SpringBoot",
-                                   "System Design", "Web Development", "App Development", "Electron.js"};
-    String[] community = {"LeetCode", "Codeforces", "Open Source (GSoC Prep)","Codechef"};
+                                   , "Web Development", "App Development", "Electron.js"};
+    String[] community = {"LeetCode", "Codeforces", "Open Source (GSoC Prep)","Codechef",};
     
     public void getMotto() {
         System.out.println("Pivoting from core engineering to building impactful software.");
